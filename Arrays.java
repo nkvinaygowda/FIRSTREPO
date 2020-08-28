@@ -42,7 +42,7 @@ public class Arrays {
     		System.out.print(c[i][j]+"  ");
     		 
     	 }System.out.println();
-     }
+     }System.out.println("vinay");
      
 }
 }
