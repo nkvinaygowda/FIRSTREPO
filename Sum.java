@@ -17,6 +17,7 @@ public class Sum {
 			}
 		}
 		System.out.println("result is "+r);
+		System.out.println("changed");
 
 	}
 
